@@ -1,4 +1,4 @@
-# LAB 4 :
+# LAB 3 :
 # Combinational Circuits: Structural Modeling Simulation (Questasim and Vivado)
 ## Details:
 In this experiment we implemented the given circuit in Vivado through System Verilog Code and then tested our implementation in Questasim through testbench  there were two tasks to be done and their files are given.
