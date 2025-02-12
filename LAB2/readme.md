@@ -1,4 +1,4 @@
-# Experiment 3
+# Experiment 2
 ## Combinational Circuits:Structural Modeling using Vivado
  In this experiment we used Vivado to design  and implement the circuit given in .drawio file by writing its code in System Verilog there  and later on we  used it for running our code on FPGA.
  ### Files:
