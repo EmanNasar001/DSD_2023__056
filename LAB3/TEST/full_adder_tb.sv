@@ -7,7 +7,7 @@ module full_adder_tb();
     logic sum1;
     logic carry1;
 
-    // Instantiate the full adder (UUT)
+    
     full_adder UUT (
         .a(a1),
         .b(b1),
@@ -16,7 +16,7 @@ module full_adder_tb();
         .carry(carry1)
     );
 
-    // Test input combinations
+  
     initial begin
         // Provide different combinations of the inputs to check validity of code
         a1 = 0; b1 = 0; c1 = 0; 
